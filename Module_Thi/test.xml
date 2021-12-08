@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test ID="00">
+	<Quiz>
+		<Question>
+			The default model for complex type, in XML schemas for element is
+		</Question>
+		<Answer count="4">
+			<Option>
+				textOnly
+			</Option>
+			<Option>
+				elementOnly
+			</Option>
+			<Option>
+				no default type
+			</Option>
+			<Option>
+				both a &amp; b
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			Which of the following programs support XML or XML applications?:
+		</Question>
+		<Answer count="4">
+			<Option>
+				Internet Explorer 5.5
+			</Option>
+			<Option>
+				Netscape D.7
+			</Option>
+			<Option>
+				RealPlayer.
+			</Option>
+			<Option>
+				both A and B
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			Logical database design describes describes base relations, file organizations, and indexes that are used to achieve efficient access to data.
+		</Question>
+		<Answer count="2">
+			<Option>
+				True
+			</Option>
+			<Option>
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			A --------- is an association between entities
+		</Question>
+		<Answer count="4">
+			<Option>
+				Relation
+			</Option>
+			<Option>
+				One to One
+			</Option>
+			<Option>
+				Generalization
+			</Option>
+			<Option>
+				Specialization
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			A traditional database stores just data – with no procedures
+		</Question>
+		<Answer count="2">
+			<Option>
+				True
+			</Option>
+			<Option>
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			Queue is a _____________ list.
+		</Question>
+		<Answer count="4">
+			<Option>
+				LIFO
+			</Option>
+			<Option>
+				LILO
+			</Option>
+			<Option>
+				FILO
+			</Option>
+			<Option>
+				FIFO
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			The default model for complex type, in XML schemas for element is
+		</Question>
+		<Answer count="4">
+			<Option>
+				textOnly
+			</Option>
+			<Option>
+				elementOnly
+			</Option>
+			<Option>
+				no default type
+			</Option>
+			<Option>
+				both a &amp; b
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			A binary tree with 27 nodes has _______ null branches.
+		</Question>
+		<Answer count="4">
+			<Option>
+				54
+			</Option>
+			<Option>
+				27
+			</Option>
+			<Option>
+				26
+			</Option>
+			<Option>
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			Microsoft XML Schema Data types for Hexadecimal digits representating octates
+		</Question>
+		<Answer count="4">
+			<Option>
+				UID
+			</Option>
+			<Option>
+				UXID
+			</Option>
+			<Option>
+				UUID
+			</Option>
+			<Option>
+				XXID
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Question>
+			Number of binary trees formed with 5 nodes are
+		</Question>
+		<Answer count="4">
+			<Option>
+				30
+			</Option>
+			<Option>
+				36
+			</Option>
+			<Option>
+				108
+			</Option>
+			<Option>
+				42
+			</Option>
+		</Answer>
+	</Quiz>
+</Test>

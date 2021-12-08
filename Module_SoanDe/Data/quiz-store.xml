@@ -1,0 +1,2967 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QuizStorage>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Which statement is true?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				All the statements are true
+			</Option>
+			<Option isTrue="True">
+				All XML elements must have a closing tag
+			</Option>
+			<Option isTrue="False">
+				All XML elements must be lower case
+			</Option>
+			<Option isTrue="False">
+				All XML documents must have a DTD
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Which of the following strings are a correct XML name?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				xmlExtension
+			</Option>
+			<Option isTrue="True">
+				xslNewElement
+			</Option>
+			<Option isTrue="False">
+				XMLElement#123
+			</Option>
+			<Option isTrue="False">
+				All
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Simple Attribute composed of multiple components, each with an independent existence.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True
+			</Option>
+			<Option isTrue="True">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			In Relational database Data is stored as record types and the relationship is represented by set types
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word using SHIFT with any of the arrow keys
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Highlight a block of text
+			</Option>
+			<Option isTrue="False">
+				Delete something
+			</Option>
+			<Option isTrue="False">
+				Paste something
+			</Option>
+			<Option isTrue="True">
+				Select more than one item in a window or on the desktop, or select text in a document
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			What are the predefined attributes
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				xml:lang
+			</Option>
+			<Option isTrue="False">
+				xml:space
+			</Option>
+			<Option isTrue="True">
+				both
+			</Option>
+			<Option isTrue="False">
+				none
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word to cut something the following shortcut is used
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				CTRL+C
+			</Option>
+			<Option isTrue="True">
+				CTRL+X
+			</Option>
+			<Option isTrue="False">
+				CTRL+V
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word move the insertion point to the beginning of the previous paragraph
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				CTRL+RIGHTARROW
+			</Option>
+			<Option isTrue="False">
+				CTRL+LEFT ARROW
+			</Option>
+			<Option isTrue="False">
+				CTRL+DOWN ARROW
+			</Option>
+			<Option isTrue="True">
+				CTRL+UP ARROW
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word move the insertion point to the beginning of the next paragraph
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Shortcut CTRL+RIGHT ARROW
+			</Option>
+			<Option isTrue="False">
+				Shortcut CTRL+LEFT ARROW
+			</Option>
+			<Option isTrue="False">
+				Shortcut CTRL+DOWN ARROW
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			Why are headers and footers used in document?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				To enhance the overall appearance of the document
+			</Option>
+			<Option isTrue="False">
+				To mark the starting and ending of a page
+			</Option>
+			<Option isTrue="False">
+				To make large document more readable
+			</Option>
+			<Option isTrue="True">
+				To allow page headers and footers to appear on document when it is printed
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			You can name the schema using the name attribute like
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;schema attribute=”schema1”&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;schema nameattribute=”schema1”&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;schema nameattri=”schema1”&gt;
+			</Option>
+			<Option isTrue="True">
+				&lt;schema name=”schema1”&gt;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Recursive functions are executed in a?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				First In First Out Order
+			</Option>
+			<Option isTrue="False">
+				Load Balancing
+			</Option>
+			<Option isTrue="False">
+				Parallel Fashion
+			</Option>
+			<Option isTrue="True">
+				Last In First Out Order
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Who is father of C Language?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Bjarne Stroustrup
+			</Option>
+			<Option isTrue="True">
+				Dennis Ritchie
+			</Option>
+			<Option isTrue="False">
+				James A. Gosling
+			</Option>
+			<Option isTrue="False">
+				Dr. E.F. Codd
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+N is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Favorites bar
+			</Option>
+			<Option isTrue="False">
+				Open the Open dialog box
+			</Option>
+			<Option isTrue="True">
+				Start another instance of the browser with the same Web address
+			</Option>
+			<Option isTrue="False">
+				Open the Open dialog box, the same as CTRL+L
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Which of the following XML fragments are well-formed?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;?xml?&gt;
+			</Option>
+			<Option isTrue="True">
+				&lt;?xml version="A.0"?&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;?xml encoding="JIS"?&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;?xml encoding="JIS" version="A.0"?&gt;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Which of the following XML fragments are well-formed?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				&lt;myElement myAttribute="someValue"/&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;myElement myAttribute=someValue/&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;myElement myAttribute=’someValue’&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;myElement myAttribute="someValue’/&gt;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which of the following shows the correct hierarchy of arithmetic operations in C
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				/ + * -
+			</Option>
+			<Option isTrue="False">
+				* - / +
+			</Option>
+			<Option isTrue="False">
+				+ - / *
+			</Option>
+			<Option isTrue="True">
+				* / + -
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word to delete the selected item permanently without placing the item in the Recycle Bin
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Shortcut SHIFT+DELETE
+			</Option>
+			<Option isTrue="False">
+				Shortcut CTRL while dragging an item
+			</Option>
+			<Option isTrue="False">
+				Shortcut CTRL+SHIFT while dragging an item
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+W is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Print dialog box
+			</Option>
+			<Option isTrue="False">
+				Update the current Web page
+			</Option>
+			<Option isTrue="True">
+				Close the current window
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+I is used for
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Open the Favorites bar
+			</Option>
+			<Option isTrue="False">
+				Open the Open dialog box
+			</Option>
+			<Option isTrue="False">
+				Start another instance of the browser with the same Web address
+			</Option>
+			<Option isTrue="False">
+				Open the Open dialog box, the same as CTRL+L
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			Which of the following shortcut key is used to check spelling?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				F1
+			</Option>
+			<Option isTrue="False">
+				F2
+			</Option>
+			<Option isTrue="True">
+				F7
+			</Option>
+			<Option isTrue="False">
+				F9
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word using CTRL+SHIFT with any of the arrow keys
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Highlight a block of text
+			</Option>
+			<Option isTrue="False">
+				Delete something
+			</Option>
+			<Option isTrue="False">
+				Paste something
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			-------------  stores metadata about the structure of the data base
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Physical data base
+			</Option>
+			<Option isTrue="False">
+				Query Analyzer
+			</Option>
+			<Option isTrue="True">
+				Data Dictionary
+			</Option>
+			<Option isTrue="False">
+				Data Catalog
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			Graphics for word processor
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Peripheral
+			</Option>
+			<Option isTrue="True">
+				Clip art
+			</Option>
+			<Option isTrue="False">
+				Highlight
+			</Option>
+			<Option isTrue="False">
+				Execute
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			To add the attribute named Type to the &lt;customer&gt; tag the syntax will be
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;customer attribute Type=”exelent”&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;customer Type attribute =”exelent”&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;customer Type attribute_type=”exelent”&gt;
+			</Option>
+			<Option isTrue="True">
+				&lt;customer Type=” exelent” &gt;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is right way to Initialization array?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				int num[6] = { 2, 4, 12, 5, 45, 5 } ;
+			</Option>
+			<Option isTrue="False">
+				int n{} = { 2, 4, 12, 5, 45, 5 } ;
+			</Option>
+			<Option isTrue="False">
+				int n{6} = { 2, 4, 12 } ;
+			</Option>
+			<Option isTrue="False">
+				int n(6) = { 2, 4, 12, 5, 45, 5 } ;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word move the insertion point to the beginning of the next word
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Shortcut CTRL+RIGHTARROW
+			</Option>
+			<Option isTrue="False">
+				Shortcut CTRL+LEFTARROW
+			</Option>
+			<Option isTrue="False">
+				Shortcut CTRL+DOWN ARROW
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Which of the following strings are a correct XML name?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				_myElement
+			</Option>
+			<Option isTrue="False">
+				my Element
+			</Option>
+			<Option isTrue="False">
+				#myElement
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			DTD includes the specifications about the markup that can be used within the document, the specifications consists of all EXCEPT
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				the browser name
+			</Option>
+			<Option isTrue="False">
+				the size of element name
+			</Option>
+			<Option isTrue="False">
+				entity declarations
+			</Option>
+			<Option isTrue="False">
+				element declarations
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			-----manages the allocation of the space on the disk storage and the data base structure  used to represent information stored on disk
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Disk Manager
+			</Option>
+			<Option isTrue="True">
+				File Manager
+			</Option>
+			<Option isTrue="False">
+				Buffer Manager
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Kind of Parsers are
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				well-formed
+			</Option>
+			<Option isTrue="False">
+				validating
+			</Option>
+			<Option isTrue="False">
+				non-validating
+			</Option>
+			<Option isTrue="True">
+				Both B &amp; C
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+F is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Organize Favorites dialog box
+			</Option>
+			<Option isTrue="False">
+				Open the Search bar
+			</Option>
+			<Option isTrue="True">
+				Start the Find utility
+			</Option>
+			<Option isTrue="False">
+				Open the History bar
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is function?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Function is a block of statements that perform some specific task.
+			</Option>
+			<Option isTrue="False">
+				Function is the fundamental modular unit. A function is usually designed to perform a specific task.
+			</Option>
+			<Option isTrue="False">
+				Function is a block of code that performs a specific task. It has a name and it is reusable
+			</Option>
+			<Option isTrue="True">
+				All the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Microsoft XML Schema Data types for Hexadecimal digits representating octates
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				UID
+			</Option>
+			<Option isTrue="False">
+				UXID
+			</Option>
+			<Option isTrue="True">
+				UUID
+			</Option>
+			<Option isTrue="False">
+				XXID
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which is the right way to declare constant in C?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				int constant var =10;
+			</Option>
+			<Option isTrue="False">
+				int const var = 10;
+			</Option>
+			<Option isTrue="False">
+				const int var = 10;
+			</Option>
+			<Option isTrue="True">
+				B &amp; C Both
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			perror( ) function used to ?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Work same as printf()
+			</Option>
+			<Option isTrue="True">
+				prints the error message specified by the compiler
+			</Option>
+			<Option isTrue="False">
+				prints the garbage value assigned by the compiler
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			The "C" language is
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Context free language
+			</Option>
+			<Option isTrue="False">
+				Context sensitive language
+			</Option>
+			<Option isTrue="False">
+				Regular language
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			What does XML stand for?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				eXtra Modern Link
+			</Option>
+			<Option isTrue="True">
+				eXtensible Markup Language
+			</Option>
+			<Option isTrue="False">
+				Example Markup Language
+			</Option>
+			<Option isTrue="False">
+				X-Markup Language
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is an array?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				An array is a collection of variables that are of the dissimilar data type.
+			</Option>
+			<Option isTrue="True">
+				An array is a collection of variables that are of the same data type.
+			</Option>
+			<Option isTrue="False">
+				An array is not a collection of variables that are of the same data type.
+			</Option>
+			<Option isTrue="False">
+				None of the above.
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Conceptual data modeling uses a high level data modeling concept of E-R Models
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			A traditional database stores just data – with no procedures
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			-------- level describes what data is stored in the database and the relationships among the data
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Physical Level
+			</Option>
+			<Option isTrue="True">
+				Logical Level
+			</Option>
+			<Option isTrue="False">
+				Conceptual Level
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			What does DTD stand for?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Direct Type Definition
+			</Option>
+			<Option isTrue="True">
+				Document Type Definition
+			</Option>
+			<Option isTrue="False">
+				Do The Dance
+			</Option>
+			<Option isTrue="False">
+				Dynamic Type Definition
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Conceptual data model is the source of information for logical design phase
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Foreign Key can be null
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				TRUE
+			</Option>
+			<Option isTrue="False">
+				FALSE
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Well formed XML document means
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				it contains a root element
+			</Option>
+			<Option isTrue="False">
+				it contain an element
+			</Option>
+			<Option isTrue="False">
+				it contains one or more elements
+			</Option>
+			<Option isTrue="True">
+				must contain one or more elements and root element must contain all other elements
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			When processing an output XML, "new line" symbols
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				are copied into output "as is", i.e. "CR+LF" for Windows, CR for Macintosh, LF for Unix.
+			</Option>
+			<Option isTrue="True">
+				are converted to single LF symbol
+			</Option>
+			<Option isTrue="False">
+				are converted to single CR symbol
+			</Option>
+			<Option isTrue="False">
+				are discarded
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Using relational model we design conceptual database design
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True
+			</Option>
+			<Option isTrue="True">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			In which tree, for every node the height of its left subtree and right subtree differ almost by one?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Binary search tree
+			</Option>
+			<Option isTrue="True">
+				AVL tree
+			</Option>
+			<Option isTrue="False">
+				Threaded Binary Tree
+			</Option>
+			<Option isTrue="False">
+				Complete Binary Tree
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			How can we make attributes have multiple values:
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;myElement myAttribute="value1 value2"/&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;myElement myAttribute="value1" myAttribute="value2"/&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;myElement myAttribute="value1, value2"/&gt;
+			</Option>
+			<Option isTrue="True">
+				attributes cannot have multiple values
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut for copy is
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				CTRL+C
+			</Option>
+			<Option isTrue="False">
+				CTRL+X
+			</Option>
+			<Option isTrue="True">
+				CTRL+V
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			In switch statement, each case instance value must be _______?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Constant
+			</Option>
+			<Option isTrue="False">
+				Variable
+			</Option>
+			<Option isTrue="False">
+				Special Symbol
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			For 16-bit compiler allowable range for integer constants is ______ ?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				-3.4e38 to 3.4e38
+			</Option>
+			<Option isTrue="False">
+				-32767 to 32768
+			</Option>
+			<Option isTrue="True">
+				-32768 to 32767
+			</Option>
+			<Option isTrue="False">
+				-32668 to 32667
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+L is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Favorites bar
+			</Option>
+			<Option isTrue="True">
+				Open the Open dialog box
+			</Option>
+			<Option isTrue="False">
+				Start another instance of the browser with the same Web address
+			</Option>
+			<Option isTrue="False">
+				Open the Open dialog box, the same as CTRL+L
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut SHIFT+DELETE is used for
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Delete the selected item permanently without placing the item in the Recycle Bin
+			</Option>
+			<Option isTrue="False">
+				Copy the selected item
+			</Option>
+			<Option isTrue="False">
+				Rename the selected item
+			</Option>
+			<Option isTrue="False">
+				Create a shortcut to the selected item
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which of the following is allowed in a C Arithmetic instruction
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				[]
+			</Option>
+			<Option isTrue="False">
+				{}
+			</Option>
+			<Option isTrue="True">
+				()
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			The _______ memory allocation function modifies the previous allocated space.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				calloc
+			</Option>
+			<Option isTrue="False">
+				free
+			</Option>
+			<Option isTrue="False">
+				malloc
+			</Option>
+			<Option isTrue="True">
+				realloc
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			------------is a collection of operations that perform s single logical function in  a database application
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Transaction
+			</Option>
+			<Option isTrue="False">
+				Concurrent operation
+			</Option>
+			<Option isTrue="False">
+				Atomocity
+			</Option>
+			<Option isTrue="False">
+				Durability
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			The statement print f ("%d", 10 ? 0 ? 5 : 1 : 12); will print?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				10
+			</Option>
+			<Option isTrue="False">
+				0
+			</Option>
+			<Option isTrue="False">
+				12
+			</Option>
+			<Option isTrue="True">
+				1
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			In which linked list last node address is null?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Doubly linked list
+			</Option>
+			<Option isTrue="False">
+				Circular list
+			</Option>
+			<Option isTrue="True">
+				Singly linked list
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is the right way to access value of structure variable book{ price, page }?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				printf("%d%d", book.price, book.page);
+			</Option>
+			<Option isTrue="False">
+				printf("%d%d", price.book, page.book);
+			</Option>
+			<Option isTrue="False">
+				printf("%d%d", price::book, page::book);
+			</Option>
+			<Option isTrue="False">
+				printf("%d%d", price-&gt;book, page-&gt;book);
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Ensuring atomicity is the responsibility of the ------------component
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				File Manager
+			</Option>
+			<Option isTrue="False">
+				Buffer Manager
+			</Option>
+			<Option isTrue="False">
+				DBA
+			</Option>
+			<Option isTrue="True">
+				Transation Manager
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Number of binary trees formed with 5 nodes are
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				30
+			</Option>
+			<Option isTrue="False">
+				36
+			</Option>
+			<Option isTrue="False">
+				108
+			</Option>
+			<Option isTrue="True">
+				42
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			A --------- is an association between entities
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Relation
+			</Option>
+			<Option isTrue="False">
+				One to One
+			</Option>
+			<Option isTrue="False">
+				Generalization
+			</Option>
+			<Option isTrue="False">
+				Specialization
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Tables are required to have at least one column
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			-------- engine executes low level instructions generated by the DML compilier
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				DDL Analyzer
+			</Option>
+			<Option isTrue="False">
+				Query Interpreter
+			</Option>
+			<Option isTrue="False">
+				Database Engine
+			</Option>
+			<Option isTrue="True">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Logical database design describes describes base relations, file organizations, and indexes that are used to achieve efficient access to data.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True
+			</Option>
+			<Option isTrue="True">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut CTRL+Z is for
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Undo something
+			</Option>
+			<Option isTrue="False">
+				Delete something
+			</Option>
+			<Option isTrue="False">
+				Paste something
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is C Tokens?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				The smallest individual units of c program
+			</Option>
+			<Option isTrue="False">
+				The basic element recognized by the compiler
+			</Option>
+			<Option isTrue="False">
+				The largest individual units of program
+			</Option>
+			<Option isTrue="True">
+				A &amp; B Both
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			The XML DOM object is
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Entity
+			</Option>
+			<Option isTrue="True">
+				Entity Reference
+			</Option>
+			<Option isTrue="False">
+				Comment Reference
+			</Option>
+			<Option isTrue="False">
+				Comment Data
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+O is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Favorites bar
+			</Option>
+			<Option isTrue="False">
+				Open the Open dialog box
+			</Option>
+			<Option isTrue="False">
+				Start another instance of the browser with the same Web address
+			</Option>
+			<Option isTrue="True">
+				Open the Open dialog box, the same as CTRL+L
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			The default model for complex type, in XML schemas for element is
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				textOnly
+			</Option>
+			<Option isTrue="True">
+				elementOnly
+			</Option>
+			<Option isTrue="False">
+				no default type
+			</Option>
+			<Option isTrue="False">
+				both a &amp; b
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Parameter entities can appear in
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				xml file
+			</Option>
+			<Option isTrue="True">
+				dtd file
+			</Option>
+			<Option isTrue="False">
+				xsl file
+			</Option>
+			<Option isTrue="False">
+				Both 1 and 2
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word move the insertion point to the beginning of the previous paragraph
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				CTRL+RIGHTARROW
+			</Option>
+			<Option isTrue="False">
+				CTRL+LEFT ARROW
+			</Option>
+			<Option isTrue="False">
+				CTRL+DOWN ARROW
+			</Option>
+			<Option isTrue="True">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut CTRL+SHIFT while dragging an item
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Delete the selected item permanently without placing the item in the Recycle Bin
+			</Option>
+			<Option isTrue="False">
+				Copy the selected item
+			</Option>
+			<Option isTrue="False">
+				Rename the selected item
+			</Option>
+			<Option isTrue="True">
+				Create a shortcut to the selected item
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			The default model for complex type, in XML schemas for element is
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				textOnly
+			</Option>
+			<Option isTrue="True">
+				elementOnly
+			</Option>
+			<Option isTrue="False">
+				no default type
+			</Option>
+			<Option isTrue="False">
+				both 1 &amp; 2
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			In Hierarchical database to get to a low-level table, you start at the root and work your way down the tree until you reach your target data.
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Which of the following XML fragments are well-formed?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;myElement myAttribute="value1 &lt;= value2"/&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;myElement myAttribute="value1 &amp; value2"/&gt;
+			</Option>
+			<Option isTrue="True">
+				&lt;myElement myAttribute="value1 &gt; value2"/&gt;
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word to paste something after cutting the following shortcut is used
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				CTRL+C
+			</Option>
+			<Option isTrue="False">
+				CTRL+X
+			</Option>
+			<Option isTrue="True">
+				CTRL+V
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			------- is a property that describes various characteristics of an entity
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				ER Diagram
+			</Option>
+			<Option isTrue="False">
+				Column
+			</Option>
+			<Option isTrue="False">
+				Relationship
+			</Option>
+			<Option isTrue="True">
+				Attribute
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			To create a choise in XML schemas, we use the
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;xsd:select&gt; element
+			</Option>
+			<Option isTrue="False">
+				&lt;xsd:multi&gt; element
+			</Option>
+			<Option isTrue="True">
+				&lt;xsd:choise&gt; element
+			</Option>
+			<Option isTrue="False">
+				&lt;xsd:single&gt; element
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			XML uses the features of
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				HTML
+			</Option>
+			<Option isTrue="False">
+				XHTML
+			</Option>
+			<Option isTrue="False">
+				VML
+			</Option>
+			<Option isTrue="True">
+				SGML
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			------- responsible for authorizing access to the database, for co-ordinating and monitoring its use, acquiring software, and hardware resources, controlling its use and  monitoring efficiency of operations.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Authorization Manager
+			</Option>
+			<Option isTrue="False">
+				Storage Manager
+			</Option>
+			<Option isTrue="False">
+				File Manager
+			</Option>
+			<Option isTrue="True">
+				Buffer Manager
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Cardinality specifies how many instances of an entity relate to one instance of another entity.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft ^/Vord system to copy something the following shdttcut is used
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				CTRL+C
+			</Option>
+			<Option isTrue="False">
+				CTRL+X
+			</Option>
+			<Option isTrue="False">
+				CTRL+V
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			C Language developed at _____?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				AT &amp; T's Bell Laboratories of USA in 1972
+			</Option>
+			<Option isTrue="False">
+				AT &amp; T's Bell Laboratories of USA in 1970
+			</Option>
+			<Option isTrue="False">
+				Sun Microsystems in 1973
+			</Option>
+			<Option isTrue="False">
+				Cambridge University in 1972
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			The XML DOM object is
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Entity
+			</Option>
+			<Option isTrue="True">
+				Entity Reference
+			</Option>
+			<Option isTrue="False">
+				Comment Reference
+			</Option>
+			<Option isTrue="False">
+				Comment Data
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+E is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Organize Favorites dialog box
+			</Option>
+			<Option isTrue="True">
+				Open the Search bar
+			</Option>
+			<Option isTrue="False">
+				Start the Find utility
+			</Option>
+			<Option isTrue="False">
+				Open the History bar
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			What is the file extension of Ms-Word97-2003 document?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Dot
+			</Option>
+			<Option isTrue="True">
+				Doc
+			</Option>
+			<Option isTrue="False">
+				Dom
+			</Option>
+			<Option isTrue="False">
+				Txt
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Queue is a _____________ list.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				LIFO
+			</Option>
+			<Option isTrue="False">
+				LILO
+			</Option>
+			<Option isTrue="False">
+				FILO
+			</Option>
+			<Option isTrue="True">
+				FIFO
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which one of the following sentences is true ?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				The body of a while loop is executed at least once.
+			</Option>
+			<Option isTrue="True">
+				The body of a do ... while loop is executed at least once.
+			</Option>
+			<Option isTrue="False">
+				The body of a do ... while loop is executed zero or more times.
+			</Option>
+			<Option isTrue="False">
+				A for loop can never be used in place of a while loop.
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Kind of Parsers are
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				well-formed
+			</Option>
+			<Option isTrue="False">
+				well-documented
+			</Option>
+			<Option isTrue="True">
+				non-validating and validating
+			</Option>
+			<Option isTrue="False">
+				none of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			The worst case time complexity of AVL tree is better in comparison to binary search tree for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Search and Insert Operations
+			</Option>
+			<Option isTrue="False">
+				Search and Delete Operations
+			</Option>
+			<Option isTrue="False">
+				Insert and Delete Operations
+			</Option>
+			<Option isTrue="True">
+				Search, Insert and Delete Operations
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			What is the minimum number of rows and columns that a word table can have?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Zero
+			</Option>
+			<Option isTrue="False">
+				2 rows and 1 column
+			</Option>
+			<Option isTrue="False">
+				2 rows and 2 column
+			</Option>
+			<Option isTrue="True">
+				1 row and 1 column
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			To bind the HTML element &lt;INPUT&gt; Type in text with the datasource “ dsoCustomer” we use
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;INPUT TYPE=”TEXT” DATAFIELD=”#dsoCustomer”&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;INPUT TYPE=”TEXT” DATASRC=” dsoCustomer”&gt;
+			</Option>
+			<Option isTrue="True">
+				&lt;INPUT TYPE=”TEXT” DATASRC=” #dsoCustomer” &gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;INPUT TYPE=”TEXT” DATAFLD=” #dsoCustomer”&gt;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			What is the correct syntax of the declaration which defines the XML version?:
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;xml version="A.0" /&gt;
+			</Option>
+			<Option isTrue="True">
+				&lt;?xml version="A.0"?&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;?xml version="A.0" /&gt;
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is constant?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Constants have fixed values that do not change during the execution of a program
+			</Option>
+			<Option isTrue="False">
+				Constants have fixed values that change during the execution of a program
+			</Option>
+			<Option isTrue="False">
+				Constants have unknown values that may be change during the execution of a program
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			A program which helps to create written document and lets you go back and make corrections as necessary
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Home row keys
+			</Option>
+			<Option isTrue="False">
+				Tool bar
+			</Option>
+			<Option isTrue="False">
+				Spreadsheet
+			</Option>
+			<Option isTrue="True">
+				Word processor
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which operators are known as Ternary Operator?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				::, ?
+			</Option>
+			<Option isTrue="True">
+				?, :
+			</Option>
+			<Option isTrue="False">
+				?, ;;
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Which of the following programs support XML or XML applications?:
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Internet Explorer 5.5
+			</Option>
+			<Option isTrue="False">
+				Netscape D.7
+			</Option>
+			<Option isTrue="False">
+				RealPlayer.
+			</Option>
+			<Option isTrue="True">
+				both A and B
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			A binary tree with 27 nodes has _______ null branches.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				54
+			</Option>
+			<Option isTrue="False">
+				27
+			</Option>
+			<Option isTrue="False">
+				26
+			</Option>
+			<Option isTrue="True">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			The statement printf("%c", 100); will print?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				prints 100
+			</Option>
+			<Option isTrue="False">
+				print garbage
+			</Option>
+			<Option isTrue="True">
+				prints ASCII equivalent of 100
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut CTRL while dragging an item
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Delete the selected item permanently without placing the item in the Recycle Bin
+			</Option>
+			<Option isTrue="True">
+				Copy the selected item
+			</Option>
+			<Option isTrue="False">
+				Rename the selected item
+			</Option>
+			<Option isTrue="False">
+				Create a shortcut to the selected item
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+P is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Print dialog box
+			</Option>
+			<Option isTrue="False">
+				Update the current Web page
+			</Option>
+			<Option isTrue="False">
+				Close the current window
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			------ is the minimal super key
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Primary Key
+			</Option>
+			<Option isTrue="True">
+				Candidate Key
+			</Option>
+			<Option isTrue="False">
+				Surrogate Key
+			</Option>
+			<Option isTrue="False">
+				Unique Key
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			What does Ctrl + B shortcut accomplish in Ms-Word?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				It converts selected text into the next larger size of the same font
+			</Option>
+			<Option isTrue="True">
+				It adds a line break to the document
+			</Option>
+			<Option isTrue="False">
+				It makes the selected text bold
+			</Option>
+			<Option isTrue="False">
+				It applies Italic formatting t the selected text.
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut for paste is
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				CTRL+C
+			</Option>
+			<Option isTrue="False">
+				CTRL+X
+			</Option>
+			<Option isTrue="True">
+				CTRL+V
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			In  ER model -------------denote  derived attributes
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Double ellipse
+			</Option>
+			<Option isTrue="False">
+				Diamond
+			</Option>
+			<Option isTrue="False">
+				Reactangle
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+H is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Organize Favorites dialog box
+			</Option>
+			<Option isTrue="False">
+				Open the Search bar
+			</Option>
+			<Option isTrue="False">
+				Start the Find utility
+			</Option>
+			<Option isTrue="True">
+				Open the History bar
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+R is used for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Open the Print dialog box
+			</Option>
+			<Option isTrue="True">
+				Update the current Web page
+			</Option>
+			<Option isTrue="False">
+				Close the current window
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			What type of software is used for creating letters papers and other documents?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Database
+			</Option>
+			<Option isTrue="True">
+				Word Processor
+			</Option>
+			<Option isTrue="False">
+				Spreadsheet
+			</Option>
+			<Option isTrue="False">
+				Operating Program
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Microsoft XML Schema Data Type “ boolean” has values
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True ,False
+			</Option>
+			<Option isTrue="False">
+				True ,False or 1,0
+			</Option>
+			<Option isTrue="True">
+				1,0
+			</Option>
+			<Option isTrue="False">
+				any number other then zero and zero
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Attribute standalone="no" should be included in XML declaration if a document:
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				is linked to an external XSL stylesheet
+			</Option>
+			<Option isTrue="False">
+				has external general references
+			</Option>
+			<Option isTrue="False">
+				has processing instructions
+			</Option>
+			<Option isTrue="True">
+				has an external DTD
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut DELETE is for
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Undo something
+			</Option>
+			<Option isTrue="True">
+				Delete something
+			</Option>
+			<Option isTrue="False">
+				Paste something
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Is it easier to process XML than HTML?
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Yes
+			</Option>
+			<Option isTrue="False">
+				No
+			</Option>
+			<Option isTrue="False">
+				Somtimes
+			</Option>
+			<Option isTrue="False">
+				Cant say
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			To represent hierarchical relationship between elements, which data structure is suitable?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Priority
+			</Option>
+			<Option isTrue="True">
+				Tree
+			</Option>
+			<Option isTrue="False">
+				Dqueue
+			</Option>
+			<Option isTrue="False">
+				All of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Valid XML document means (most appropriate)
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				the document has root element
+			</Option>
+			<Option isTrue="False">
+				the document contains atleast one or more root element
+			</Option>
+			<Option isTrue="True">
+				the XML document has DTD associated with it &amp; it complies with that DTD
+			</Option>
+			<Option isTrue="False">
+				Each element must nest inside any enclosing element property
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			In XML
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				the internal DTD subset is read before the external DTD
+			</Option>
+			<Option isTrue="False">
+				the external DTD subset is read before the internal DTD
+			</Option>
+			<Option isTrue="False">
+				there is no external type of DTD
+			</Option>
+			<Option isTrue="False">
+				there is no internal type of DTD
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			There is a way of describing XML data, how?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				XML uses a DTD to describe the data
+			</Option>
+			<Option isTrue="False">
+				XML uses XSL to describe data
+			</Option>
+			<Option isTrue="False">
+				XML uses a description node to describe data
+			</Option>
+			<Option isTrue="True">
+				Both A and C
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is Keywords?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Keywords have some predefine meanings and these meanings can be changed.
+			</Option>
+			<Option isTrue="False">
+				Keywords have some unknown meanings and these meanings cannot be changed.
+			</Option>
+			<Option isTrue="True">
+				Keywords have some predefine meanings and these meanings cannot be changed.
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			All primary keys should be super keys.
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				TRUE
+			</Option>
+			<Option isTrue="False">
+				FALSE
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut CTRL+A is to
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Select all
+			</Option>
+			<Option isTrue="False">
+				Highlight a block of text
+			</Option>
+			<Option isTrue="False">
+				Delete something
+			</Option>
+			<Option isTrue="False">
+				Paste something
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Logical data independence.  Refers to the separation of the external views from the conceptual view
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				True
+			</Option>
+			<Option isTrue="False">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			C programs are converted into machine language with the help of
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				An Editor
+			</Option>
+			<Option isTrue="True">
+				A compiler
+			</Option>
+			<Option isTrue="False">
+				An operating system
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Simple type Built into Schema “ data’ represent a data in
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				MM-DD-YY
+			</Option>
+			<Option isTrue="False">
+				Dd-MM-YY
+			</Option>
+			<Option isTrue="False">
+				YY-MM-DD
+			</Option>
+			<Option isTrue="True">
+				YYYY-MM-DD
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut CTRL+C is used for
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Cut
+			</Option>
+			<Option isTrue="False">
+				Paste
+			</Option>
+			<Option isTrue="False">
+				Copy
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word move the insertion point to the beginning of the previous word
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Shortcut CTRL+RIGHT ARROW
+			</Option>
+			<Option isTrue="True">
+				Shortcut CTRL+LEFT ARROW
+			</Option>
+			<Option isTrue="False">
+				Shortcut CTRL+DOWN ARROW
+			</Option>
+			<Option isTrue="False">
+				None of these
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			The problem that is compounded when constraints involve several data items from different files are Called --------
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Transaction Control Management Problem
+			</Option>
+			<Option isTrue="False">
+				Security Problem
+			</Option>
+			<Option isTrue="True">
+				Integrity Problem
+			</Option>
+			<Option isTrue="False">
+				Durability Problem
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Duplication of data is the disadvantage of DBMS
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True
+			</Option>
+			<Option isTrue="True">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			An array elements are always stored in _________ memory locations.
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Sequential
+			</Option>
+			<Option isTrue="False">
+				Random
+			</Option>
+			<Option isTrue="False">
+				Sequential and Random
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which of the following data structure is linear type?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Strings
+			</Option>
+			<Option isTrue="False">
+				Queue
+			</Option>
+			<Option isTrue="False">
+				Lists
+			</Option>
+			<Option isTrue="True">
+				All of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			The use of a DTD in XML development is:
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				required when validating XML documents
+			</Option>
+			<Option isTrue="False">
+				no longer necessary after the XML editor has been customized
+			</Option>
+			<Option isTrue="False">
+				used to direct conversion using an XSLT processor
+			</Option>
+			<Option isTrue="False">
+				a good guide to populating a templates to be filled in when generating an XML document automatically
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			What does the Ctrl + I shortcut key accomplish in Ms-Word?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				It converts selected text into the next larger size of the same font
+			</Option>
+			<Option isTrue="False">
+				It adds a line break to the document
+			</Option>
+			<Option isTrue="False">
+				It makes the selected text bold
+			</Option>
+			<Option isTrue="True">
+				It applies Italic formatting t the selected text.
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			A C variable cannot start with
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				An alphabet
+			</Option>
+			<Option isTrue="False">
+				A number
+			</Option>
+			<Option isTrue="False">
+				A special symbol other than underscore
+			</Option>
+			<Option isTrue="True">
+				both (b) and (c)
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Bitwise operators can operate upon?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				double and chars
+			</Option>
+			<Option isTrue="False">
+				floats and doubles
+			</Option>
+			<Option isTrue="False">
+				ints and floats
+			</Option>
+			<Option isTrue="True">
+				ints and chars
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			In simple type built into XML schema type flat has single precision of ________ floating point
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				16 bit
+			</Option>
+			<Option isTrue="False">
+				32 bit
+			</Option>
+			<Option isTrue="True">
+				8 bit
+			</Option>
+			<Option isTrue="False">
+				4 bit
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			The Default Parameter Passing Mechanism is called as
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Call by Value
+			</Option>
+			<Option isTrue="False">
+				Call by Reference
+			</Option>
+			<Option isTrue="False">
+				Call by Address
+			</Option>
+			<Option isTrue="False">
+				Call by Name
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is the work of break keyword?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Halt execution of program
+			</Option>
+			<Option isTrue="False">
+				Restart execution of program
+			</Option>
+			<Option isTrue="True">
+				Exit from loop or switch statement
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			XML document can be viewed in
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				IE C.0
+			</Option>
+			<Option isTrue="False">
+				IE B.0
+			</Option>
+			<Option isTrue="True">
+				IE 6.0
+			</Option>
+			<Option isTrue="False">
+				IE X.0
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which is the correct syntax to declare constant pointer?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				int *const constPtr;
+			</Option>
+			<Option isTrue="False">
+				*int constant constPtr;
+			</Option>
+			<Option isTrue="False">
+				const int *constPtr;
+			</Option>
+			<Option isTrue="False">
+				A and C both
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			What is Dequeue?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Elements can be added from front
+			</Option>
+			<Option isTrue="True">
+				Elements can be added to or removed from either the front or rear
+			</Option>
+			<Option isTrue="False">
+				Elements can be added from rear
+			</Option>
+			<Option isTrue="False">
+				None of the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			XML DSOs has the property for the number of pages of data the recordset contains
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				count
+			</Option>
+			<Option isTrue="False">
+				number
+			</Option>
+			<Option isTrue="True">
+				pageCount
+			</Option>
+			<Option isTrue="False">
+				pageNumber
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			---------- denote derived attributes.
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Double ellipse
+			</Option>
+			<Option isTrue="True">
+				Dashed ellipse
+			</Option>
+			<Option isTrue="False">
+				Squared ellipse
+			</Option>
+			<Option isTrue="False">
+				Ellipse with attribute name underlined
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Candidate key can have a null value
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True
+			</Option>
+			<Option isTrue="True">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			The syntax for parameter entity is
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				&lt;! ENTITY % NAME DEFINITION&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt; ENTITY % NAME DEFINITION&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;! ENTITY $ NAME DEFINITION&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt; ENTITY % NAME DEFINITION&gt;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Comment in XML document is given by
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				&lt;?-- --&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;!-- --!&gt;
+			</Option>
+			<Option isTrue="True">
+				&lt;!-- --&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;/-- -- &gt;
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			Whats so great about XML?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Easy data exchange
+			</Option>
+			<Option isTrue="False">
+				High speed on network
+			</Option>
+			<Option isTrue="False">
+				Only B.is correct
+			</Option>
+			<Option isTrue="False">
+				Both A. &amp; B.
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>Microsoft Word</Topic>
+		<Question>
+			In Microsoft Word shortcut key CTRL+B is used for
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				Open the Organize Favorites dialog box
+			</Option>
+			<Option isTrue="False">
+				Open the Search bar
+			</Option>
+			<Option isTrue="False">
+				Start the Find utility
+			</Option>
+			<Option isTrue="False">
+				Open the History bar
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			Each program maintains its own set of data.  So users of one program may be unaware of potentially useful data held by other programs this leads toDuplication of data
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True
+			</Option>
+			<Option isTrue="True">
+				False
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			In simple Type Built into XML schema Boolean type holds
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				True, False
+			</Option>
+			<Option isTrue="False">
+				1,0
+			</Option>
+			<Option isTrue="True">
+				both A. &amp; B.
+			</Option>
+			<Option isTrue="False">
+				True/False and any number except 0
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>C Language</Topic>
+		<Question>
+			Which one of the following is not a linear data structure?
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Array
+			</Option>
+			<Option isTrue="True">
+				Binary Tree
+			</Option>
+			<Option isTrue="False">
+				Queue
+			</Option>
+			<Option isTrue="False">
+				Stack
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>DBMS</Topic>
+		<Question>
+			------------responsible to define the content, the structure, the constraints, and functions or transactions against the database
+		</Question>
+		<Answer>
+			<Option isTrue="False">
+				Transcation Manager
+			</Option>
+			<Option isTrue="False">
+				Query Analyzer
+			</Option>
+			<Option isTrue="True">
+				DBA
+			</Option>
+			<Option isTrue="False">
+				All the above
+			</Option>
+		</Answer>
+	</Quiz>
+	<Quiz>
+		<Topic>XML</Topic>
+		<Question>
+			To create a data island we use the _____________HTML element
+		</Question>
+		<Answer>
+			<Option isTrue="True">
+				&lt;XML&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;dataisland&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;Island&gt;
+			</Option>
+			<Option isTrue="False">
+				&lt;XMLIsland&gt;
+			</Option>
+		</Answer>
+	</Quiz>
+</QuizStorage>

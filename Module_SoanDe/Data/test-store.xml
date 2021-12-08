@@ -1,0 +1,3110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestStorage>
+	<Test name="Test0">
+		<CountQuiz>20</CountQuiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				In switch statement, each case instance value must be _______?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Constant
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Variable
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Special Symbol
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut key CTRL+E is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Open the Organize Favorites dialog box
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the Search bar
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Start the Find utility
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the History bar
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which is the correct syntax to declare constant pointer?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						int *const constPtr;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						*int constant constPtr;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						const int *constPtr;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						A and C both
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut CTRL+C is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Cut
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Paste
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Copy
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Microsoft XML Schema Data types for Hexadecimal digits representating octates
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						UID
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						UXID
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						UUID
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						XXID
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Cardinality specifies how many instances of an entity relate to one instance of another entity.
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				A C variable cannot start with
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						An alphabet
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						A number
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						A special symbol other than underscore
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						both (b) and (c)
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Queue is a _____________ list.
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						LIFO
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						LILO
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						FILO
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						FIFO
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				A traditional database stores just data – with no procedures
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				Graphics for word processor
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Peripheral
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Clip art
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Highlight
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Execute
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word move the insertion point to the beginning of the next paragraph
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Shortcut CTRL+RIGHT ARROW
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Shortcut CTRL+LEFT ARROW
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Shortcut CTRL+DOWN ARROW
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				C programs are converted into machine language with the help of
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						An Editor
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						A compiler
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						An operating system
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which of the following data structure is linear type?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Strings
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Queue
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Lists
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						All of the above
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Which of the following strings are a correct XML name?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						_myElement
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						my Element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						#myElement
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				What are the predefined attributes
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						xml:lang
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						xml:space
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						both
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						none
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut key CTRL+F is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Open the Organize Favorites dialog box
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the Search bar
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Start the Find utility
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the History bar
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word using SHIFT with any of the arrow keys
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Highlight a block of text
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Delete something
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Paste something
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Select more than one item in a window or on the desktop, or select text in a document
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				What is the minimum number of rows and columns that a word table can have?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Zero
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						2 rows and 1 column
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						2 rows and 2 column
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						1 row and 1 column
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Comment in XML document is given by
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						&lt;?-- --&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;!-- --!&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;!-- --&gt;
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;/-- -- &gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				An array elements are always stored in _________ memory locations.
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Sequential
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Random
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Sequential and Random
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+	</Test>
+	<Test name="Test1">
+		<CountQuiz>20</CountQuiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Duplication of data is the disadvantage of DBMS
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				What type of software is used for creating letters papers and other documents?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Database
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Word Processor
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Spreadsheet
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Operating Program
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				How can we make attributes have multiple values:
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						&lt;myElement myAttribute="value1 value2"/&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;myElement myAttribute="value1" myAttribute="value2"/&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;myElement myAttribute="value1, value2"/&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						attributes cannot have multiple values
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Is it easier to process XML than HTML?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Yes
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						No
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Somtimes
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Cant say
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Which of the following XML fragments are well-formed?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						&lt;myElement myAttribute="value1 &lt;= value2"/&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;myElement myAttribute="value1 &amp; value2"/&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;myElement myAttribute="value1 &gt; value2"/&gt;
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				What is Dequeue?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Elements can be added from front
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Elements can be added to or removed from either the front or rear
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Elements can be added from rear
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				What is the right way to access value of structure variable book{ price, page }?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						printf("%d%d", book.price, book.page);
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						printf("%d%d", price.book, page.book);
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						printf("%d%d", price::book, page::book);
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						printf("%d%d", price-&gt;book, page-&gt;book);
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				In simple Type Built into XML schema Boolean type holds
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						True, False
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						1,0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						both A. &amp; B.
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						True/False and any number except 0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which one of the following sentences is true ?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						The body of a while loop is executed at least once.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						The body of a do ... while loop is executed at least once.
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						The body of a do ... while loop is executed zero or more times.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						A for loop can never be used in place of a while loop.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Which of the following strings are a correct XML name?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						_myElement
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						my Element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						#myElement
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				In simple Type Built into XML schema Boolean type holds
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						True, False
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						1,0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						both A. &amp; B.
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						True/False and any number except 0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Comment in XML document is given by
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						&lt;?-- --&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;!-- --!&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;!-- --&gt;
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;/-- -- &gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				What does Ctrl + B shortcut accomplish in Ms-Word?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						It converts selected text into the next larger size of the same font
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						It adds a line break to the document
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						It makes the selected text bold
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						It applies Italic formatting t the selected text.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				Why are headers and footers used in document?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						To enhance the overall appearance of the document
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						To mark the starting and ending of a page
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						To make large document more readable
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						To allow page headers and footers to appear on document when it is printed
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				In which linked list last node address is null?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Doubly linked list
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Circular list
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Singly linked list
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Which statement is true?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						All the statements are true
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						All XML elements must have a closing tag
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						All XML elements must be lower case
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						All XML documents must have a DTD
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				In which linked list last node address is null?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Doubly linked list
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Circular list
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Singly linked list
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut key CTRL+L is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Open the Favorites bar
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the Open dialog box
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Start another instance of the browser with the same Web address
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the Open dialog box, the same as CTRL+L
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Number of binary trees formed with 5 nodes are
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						30
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						36
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						108
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						42
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				In simple type built into XML schema type flat has single precision of ________ floating point
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						16 bit
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						32 bit
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						8 bit
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						4 bit
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+	</Test>
+	<Test name="Test2">
+		<CountQuiz>20</CountQuiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut CTRL+Z is for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Undo something
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Delete something
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Paste something
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				The XML DOM object is
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Entity
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Entity Reference
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Comment Reference
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Comment Data
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				To represent hierarchical relationship between elements, which data structure is suitable?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Priority
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Tree
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Dqueue
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						All of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word to delete the selected item permanently without placing the item in the Recycle Bin
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Shortcut SHIFT+DELETE
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Shortcut CTRL while dragging an item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Shortcut CTRL+SHIFT while dragging an item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				C Language developed at _____?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						AT &amp; T's Bell Laboratories of USA in 1972
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						AT &amp; T's Bell Laboratories of USA in 1970
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Sun Microsystems in 1973
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Cambridge University in 1972
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				-----manages the allocation of the space on the disk storage and the data base structure  used to represent information stored on disk
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Disk Manager
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						File Manager
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Buffer Manager
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				What is the file extension of Ms-Word97-2003 document?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Dot
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Doc
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Dom
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Txt
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Well formed XML document means
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						it contains a root element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						it contain an element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						it contains one or more elements
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						must contain one or more elements and root element must contain all other elements
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				What is the minimum number of rows and columns that a word table can have?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Zero
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						2 rows and 1 column
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						2 rows and 2 column
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						1 row and 1 column
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				What is the file extension of Ms-Word97-2003 document?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Dot
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Doc
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Dom
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Txt
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut key CTRL+P is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Open the Print dialog box
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Update the current Web page
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Close the current window
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Kind of Parsers are
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						well-formed
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						validating
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						non-validating
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Both B &amp; C
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Which of the following strings are a correct XML name?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						_myElement
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						my Element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						#myElement
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Who is father of C Language?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Bjarne Stroustrup
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Dennis Ritchie
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						James A. Gosling
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Dr. E.F. Codd
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Whats so great about XML?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Easy data exchange
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						High speed on network
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Only B.is correct
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Both A. &amp; B.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Each program maintains its own set of data.  So users of one program may be unaware of potentially useful data held by other programs this leads toDuplication of data
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				The Default Parameter Passing Mechanism is called as
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Call by Value
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Call by Reference
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Call by Address
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Call by Name
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which of the following shows the correct hierarchy of arithmetic operations in C
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						/ + * -
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* - / +
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						+ - / *
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* / + -
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				The worst case time complexity of AVL tree is better in comparison to binary search tree for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Search and Insert Operations
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Search and Delete Operations
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Insert and Delete Operations
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Search, Insert and Delete Operations
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				XML document can be viewed in
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						IE C.0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						IE B.0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						IE 6.0
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						IE X.0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+	</Test>
+	<Test name="Test3">
+		<CountQuiz>20</CountQuiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Valid XML document means (most appropriate)
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						the document has root element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						the document contains atleast one or more root element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						the XML document has DTD associated with it &amp; it complies with that DTD
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Each element must nest inside any enclosing element property
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				A program which helps to create written document and lets you go back and make corrections as necessary
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Home row keys
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Tool bar
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Spreadsheet
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Word processor
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				------------is a collection of operations that perform s single logical function in  a database application
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Transaction
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Concurrent operation
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Atomocity
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Durability
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				---------- denote derived attributes.
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Double ellipse
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Dashed ellipse
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Squared ellipse
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Ellipse with attribute name underlined
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Conceptual data model is the source of information for logical design phase
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which operators are known as Ternary Operator?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						::, ?
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						?, :
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						?, ;;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which of the following shows the correct hierarchy of arithmetic operations in C
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						/ + * -
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* - / +
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						+ - / *
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* / + -
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				In  ER model -------------denote  derived attributes
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Double ellipse
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Diamond
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Reactangle
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which of the following shows the correct hierarchy of arithmetic operations in C
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						/ + * -
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* - / +
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						+ - / *
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* / + -
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word to cut something the following shortcut is used
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						CTRL+C
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						CTRL+X
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						CTRL+V
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Well formed XML document means
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						it contains a root element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						it contain an element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						it contains one or more elements
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						must contain one or more elements and root element must contain all other elements
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word to delete the selected item permanently without placing the item in the Recycle Bin
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Shortcut SHIFT+DELETE
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Shortcut CTRL while dragging an item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Shortcut CTRL+SHIFT while dragging an item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				------- is a property that describes various characteristics of an entity
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						ER Diagram
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Column
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Relationship
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Attribute
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Logical database design describes describes base relations, file organizations, and indexes that are used to achieve efficient access to data.
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word using CTRL+SHIFT with any of the arrow keys
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Highlight a block of text
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Delete something
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Paste something
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut key CTRL+W is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Open the Print dialog box
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Update the current Web page
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Close the current window
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Microsoft XML Schema Data types for Hexadecimal digits representating octates
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						UID
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						UXID
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						UUID
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						XXID
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Bitwise operators can operate upon?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						double and chars
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						floats and doubles
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						ints and floats
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						ints and chars
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				To bind the HTML element &lt;INPUT&gt; Type in text with the datasource “ dsoCustomer” we use
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						&lt;INPUT TYPE=”TEXT” DATAFIELD=”#dsoCustomer”&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;INPUT TYPE=”TEXT” DATASRC=” dsoCustomer”&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;INPUT TYPE=”TEXT” DATASRC=” #dsoCustomer” &gt;
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						&lt;INPUT TYPE=”TEXT” DATAFLD=” #dsoCustomer”&gt;
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut CTRL+SHIFT while dragging an item
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Delete the selected item permanently without placing the item in the Recycle Bin
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Copy the selected item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Rename the selected item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Create a shortcut to the selected item
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+	</Test>
+	<Test name="Test4">
+		<CountQuiz>20</CountQuiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Tables are required to have at least one column
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				In simple type built into XML schema type flat has single precision of ________ floating point
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						16 bit
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						32 bit
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						8 bit
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						4 bit
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				XML document can be viewed in
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						IE C.0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						IE B.0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						IE 6.0
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						IE X.0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Valid XML document means (most appropriate)
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						the document has root element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						the document contains atleast one or more root element
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						the XML document has DTD associated with it &amp; it complies with that DTD
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Each element must nest inside any enclosing element property
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				Kind of Parsers are
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						well-formed
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						well-documented
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						non-validating and validating
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						none of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Queue is a _____________ list.
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						LIFO
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						LILO
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						FILO
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						FIFO
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				The worst case time complexity of AVL tree is better in comparison to binary search tree for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Search and Insert Operations
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Search and Delete Operations
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Insert and Delete Operations
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Search, Insert and Delete Operations
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which of the following shows the correct hierarchy of arithmetic operations in C
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						/ + * -
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* - / +
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						+ - / *
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						* / + -
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				Which one of the following sentences is true ?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						The body of a while loop is executed at least once.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						The body of a do ... while loop is executed at least once.
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						The body of a do ... while loop is executed zero or more times.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						A for loop can never be used in place of a while loop.
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut for copy is
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						CTRL+C
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						CTRL+X
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						CTRL+V
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of these
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut key CTRL+L is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Open the Favorites bar
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the Open dialog box
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Start another instance of the browser with the same Web address
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Open the Open dialog box, the same as CTRL+L
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				In XML
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						the internal DTD subset is read before the external DTD
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						the external DTD subset is read before the internal DTD
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						there is no external type of DTD
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						there is no internal type of DTD
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				C programs are converted into machine language with the help of
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						An Editor
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						A compiler
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						An operating system
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						None of the above
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Simple Attribute composed of multiple components, each with an independent existence.
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				In which tree, for every node the height of its left subtree and right subtree differ almost by one?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Binary search tree
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						AVL tree
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Threaded Binary Tree
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Complete Binary Tree
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				The problem that is compounded when constraints involve several data items from different files are Called --------
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Transaction Control Management Problem
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Security Problem
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Integrity Problem
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Durability Problem
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>Microsoft Word</Topic>
+			<Question>
+				In Microsoft Word shortcut SHIFT+DELETE is used for
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						Delete the selected item permanently without placing the item in the Recycle Bin
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Copy the selected item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Rename the selected item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						Create a shortcut to the selected item
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>C Language</Topic>
+			<Question>
+				The statement print f ("%d", 10 ? 0 ? 5 : 1 : 12); will print?
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						10
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						0
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						12
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						1
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>DBMS</Topic>
+			<Question>
+				Candidate key can have a null value
+			</Question>
+			<Answer count="2">
+				<Option>
+					<Content>
+						True
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						False
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+		<Quiz>
+			<Topic>XML</Topic>
+			<Question>
+				The default model for complex type, in XML schemas for element is
+			</Question>
+			<Answer count="4">
+				<Option>
+					<Content>
+						textOnly
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						elementOnly
+					</Content>
+					<IsTrue>true</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						no default type
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+				<Option>
+					<Content>
+						both 1 &amp; 2
+					</Content>
+					<IsTrue>false</IsTrue>
+				</Option>
+			</Answer>
+		</Quiz>
+	</Test>
+</TestStorage>
